@@ -7,14 +7,14 @@ namespace AbstracaoExercicio.Entities
 {
     class JuridicPerson : Person
     {
-        public int NumberOfEmployees { get; set; }
+        public int NumberOfEmployees { get; private set; }
 
         public JuridicPerson(string name, double anualIncome, int numberOfEmployees) : base(name, anualIncome)
         {
             NumberOfEmployees = numberOfEmployees;
         }
 
-        public override double TaxesPaid()
+        public sealed override double TaxesPaid()
         {
             if (NumberOfEmployees > 10)
             {

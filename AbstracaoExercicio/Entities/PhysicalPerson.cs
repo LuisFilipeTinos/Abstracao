@@ -8,14 +8,14 @@ namespace AbstracaoExercicio.Entities
     class PhysicalPerson : Person
     {
 
-        public double HealthExpenditures { get; set; }
+        public double HealthExpenditures { get; private set; }
 
         public PhysicalPerson(string name, double anualIncome, double healthExpenditures) : base(name, anualIncome)
         {
             HealthExpenditures = healthExpenditures;
         }
 
-        public override double TaxesPaid()
+        public sealed override double TaxesPaid()
         {
             if (AnualIncome < 20000.00)
             {

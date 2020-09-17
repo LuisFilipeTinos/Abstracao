@@ -6,8 +6,8 @@ namespace AbstracaoExercicio.Entities
 {
     abstract class Person
     {
-        public string Name { get; set; }
-        public double AnualIncome { get; set; }
+        public string Name { get; private set; }
+        public double AnualIncome { get; private set; }
 
         public Person(string name, double anualIncome)
         {
