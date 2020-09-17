@@ -1,0 +1,13 @@
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\bin\Debug\netcoreapp3.1\AbstracaoExercicio.exe
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\bin\Debug\netcoreapp3.1\AbstracaoExercicio.deps.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\bin\Debug\netcoreapp3.1\AbstracaoExercicio.runtimeconfig.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\bin\Debug\netcoreapp3.1\AbstracaoExercicio.runtimeconfig.dev.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\bin\Debug\netcoreapp3.1\AbstracaoExercicio.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\bin\Debug\netcoreapp3.1\AbstracaoExercicio.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\obj\Debug\netcoreapp3.1\AbstracaoExercicio.csprojAssemblyReference.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\obj\Debug\netcoreapp3.1\AbstracaoExercicio.AssemblyInfoInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\obj\Debug\netcoreapp3.1\AbstracaoExercicio.AssemblyInfo.cs
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\obj\Debug\netcoreapp3.1\AbstracaoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\obj\Debug\netcoreapp3.1\AbstracaoExercicio.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\obj\Debug\netcoreapp3.1\AbstracaoExercicio.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\AbstracaoExercicio\AbstracaoExercicio\obj\Debug\netcoreapp3.1\AbstracaoExercicio.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBNJGQijQgRFjKVY3eoIyzezu2lQUR1LTatPhdnl0i+53H+40ty07YploSjOKqOjWW3qRTv3SXKF0ewirbljGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55149\\Desktop\\Work Space - Visual Studio\\AbstracaoExercicio\\AbstracaoExercicio\\AbstracaoExercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55149\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
